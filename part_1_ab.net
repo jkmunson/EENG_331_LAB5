@@ -1,0 +1,8 @@
+* Z:\home\jkmunson\workspace\sp24\EENG_331_LAB5\part_1_ab.asc
+V1 wav_in 0 wavefile=harvey_super_cool.wav
+R1 wav_in wav_attenuated 200
+R2 wav_attenuated 0 1
+.wave "attenuated_super_cool.wav" 16 44.1k V(wav_attenuated)
+.tran 2
+.backanno
+.end
