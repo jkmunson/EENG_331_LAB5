@@ -1,0 +1,1 @@
+It is possible to increase the gain to any arbitrary value by increasing Rd, but only because we assumed that lambda=0. Otherwise, we would be limited to the intrinsic gain of the device, and a gain of 200 may or may not be possible.

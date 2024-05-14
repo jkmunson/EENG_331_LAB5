@@ -1,0 +1,13 @@
+LTspice 24.0.12 for Windows
+Circuit: * Z:\home\jkmunson\workspace\sp24\EENG_331_LAB5\part_2_a-d.asc
+Start Time: Tue May 14 04:35:14 2024
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Less than two connections to node vtest.  This node is used by vtest.
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.637 seconds.
+
