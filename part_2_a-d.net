@@ -1,0 +1,20 @@
+* Z:\home\jkmunson\workspace\sp24\EENG_331_LAB5\part_2_a-d.asc
+V1 wav_in 0 wavefile=harvey_super_cool.wav
+R11 wav_in wav_attenuated 200
+R12 wav_attenuated 0 1
+M1 N002 N003 0 0 cs_nmos
+V2 N001 0 5
+C2 Vout N002 100µ
+I1 N001 N002 1m
+C1 vtest N003 100µ
+Vtest vtest 0 SINE(0 .001 100)
+R1 N002 N003 5k
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\users\jkmunson\AppData\Local\LTspice\lib\cmp\standard.mos
+.wave "attenuated_super_cool.wav" 16 44.1k V(wav_attenuated)
+.tran .05
+* .op
+.model cs_nmos NMOS(w=20000u L=10u kp=100u vt0=0.5 lambda=.01)
+.backanno
+.end
