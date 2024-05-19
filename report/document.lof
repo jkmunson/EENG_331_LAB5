@@ -1,2 +1,10 @@
 \contentsline {figure}{\numberline {1}{\ignorespaces Prelab Calculations for CS amplifier with resistor load \& biasing\relax }}{3}{}%
 \contentsline {figure}{\numberline {2}{\ignorespaces Mistaken Prelab Calculations for CS amplifier w/ active load and self-biasing\relax }}{4}{}%
+\contentsline {figure}{\numberline {3}{\ignorespaces LTSpice schematic for a the .wav file import, voltage divider attenuation, and export\relax }}{6}{}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Plots comparing the input Harvey Super Cool audio, and the attenuated output waveform.\relax }}{7}{}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Playing the attenuated output audio\relax }}{8}{}%
+\contentsline {figure}{\numberline {6}{\ignorespaces CS Stage W/Resistor Bias and Load, Schematic\relax }}{9}{}%
+\contentsline {figure}{\numberline {7}{\ignorespaces CS Stage W/Resistor Bias and Load, Operating Point Analysis\relax }}{10}{}%
+\contentsline {figure}{\numberline {8}{\ignorespaces CS Stage W/Resistor Bias and Load, test with 1mv input\relax }}{10}{}%
+\contentsline {figure}{\numberline {9}{\ignorespaces CS Stage W/Resistor Bias and Load, re-amplify the audio\relax }}{11}{}%
+\contentsline {figure}{\numberline {10}{\ignorespaces CS Stage W/input impedance increased.\relax }}{12}{}%

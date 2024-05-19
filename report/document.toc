@@ -1,4 +1,22 @@
 \contentsline {section}{\numberline {1}Prelab}{1}{}%
 \contentsline {subsection}{\numberline {1.1}Common Source Amplifier With Resistor Biasing and Passive Load}{1}{}%
 \contentsline {subsection}{\numberline {1.2}Common Source Amplifier With Self-Biasing, Active Load}{1}{}%
-\contentsline {section}{Table Of Contents}{5}{}%
+\contentsline {section}{\numberline {2}Task 1}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Parts a,b: Plot and Attenuate Harvey Super Cool, Save output to file}{5}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Tasks}{5}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Calculations}{5}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Description, Observation}{5}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}Analysis}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Part c: CS Stage Schematic}{6}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Tasks}{6}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Description}{6}{}%
+\contentsline {subsection}{\numberline {2.3}Part d: CS Stage Operating Point}{6}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Tasks}{6}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Description}{6}{}%
+\contentsline {subsection}{\numberline {2.4}Parts e, f: CS Stage .tran Test w/ 1mv sin and audio}{7}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}Tasks}{7}{}%
+\contentsline {subsubsection}{\numberline {2.4.2}Description}{7}{}%
+\contentsline {subsection}{\numberline {2.5}Part g: Increasing input impedance}{8}{}%
+\contentsline {subsection}{\numberline {2.6}Calculations}{9}{}%
+\contentsline {subsection}{\numberline {2.7}Part h: Can the gain be increased to 200?}{9}{}%
+\contentsline {section}{Table Of Contents}{13}{}%

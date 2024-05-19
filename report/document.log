@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.2)  18 MAY 2024 14:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.2)  19 MAY 2024 12:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -522,7 +522,85 @@ File: prelab2.jpg Graphic file (type jpg)
 Package pdftex.def Info: prelab2.jpg  used on input line 121.
 (pdftex.def)             Requested size: 473.72792pt x 604.73235pt.
  [2] [3 <./prelab1.jpg>]
-[4 <./prelab2.jpg>] (./document.toc)
+[4 <./prelab2.jpg>]
+<task_1_ab_schematic.png, id=26, 615.80063pt x 234.8775pt>
+File: task_1_ab_schematic.png Graphic file (type png)
+<use task_1_ab_schematic.png>
+Package pdftex.def Info: task_1_ab_schematic.png  used on input line 156.
+(pdftex.def)             Requested size: 423.86623pt x 161.6714pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<task1_a_wav_before_and_after.png, id=27, 712.16063pt x 651.18282pt>
+File: task1_a_wav_before_and_after.png Graphic file (type png)
+<use task1_a_wav_before_and_after.png>
+Package pdftex.def Info: task1_a_wav_before_and_after.png  used on input line 1
+64.
+(pdftex.def)             Requested size: 423.86623pt x 387.57286pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<task_1_b_play_attenuated.png, id=28, 509.65407pt x 484.81125pt>
+File: task_1_b_play_attenuated.png Graphic file (type png)
+<use task_1_b_play_attenuated.png>
+Package pdftex.def Info: task_1_b_play_attenuated.png  used on input line 172.
+(pdftex.def)             Requested size: 423.86623pt x 403.22176pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5]
+<task_1_c-e_schematic.png, id=34, 900.36375pt x 452.4403pt>
+File: task_1_c-e_schematic.png Graphic file (type png)
+<use task_1_c-e_schematic.png>
+Package pdftex.def Info: task_1_c-e_schematic.png  used on input line 193.
+(pdftex.def)             Requested size: 423.86623pt x 212.99905pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<task_1_d_operating_point.png, id=35, 476.53032pt x 311.66437pt>
+File: task_1_d_operating_point.png Graphic file (type png)
+<use task_1_d_operating_point.png>
+Package pdftex.def Info: task_1_d_operating_point.png  used on input line 218.
+(pdftex.def)             Requested size: 423.86623pt x 277.23299pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6 <./task_1_ab_schematic.png (PNG copy)>] [7 <./task1_a_wav_before_and_after.p
+ng (PNG copy)>]
+<task_1_e_waveform_av10.png, id=43, 1915.9078pt x 469.00218pt>
+File: task_1_e_waveform_av10.png Graphic file (type png)
+<use task_1_e_waveform_av10.png>
+Package pdftex.def Info: task_1_e_waveform_av10.png  used on input line 241.
+(pdftex.def)             Requested size: 473.72792pt x 115.9621pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<task_1_f_amplify_the_attenuated_wav.png, id=44, 1510.14188pt x 797.22844pt>
+File: task_1_f_amplify_the_attenuated_wav.png Graphic file (type png)
+<use task_1_f_amplify_the_attenuated_wav.png>
+Package pdftex.def Info: task_1_f_amplify_the_attenuated_wav.png  used on input
+ line 249.
+(pdftex.def)             Requested size: 473.72792pt x 250.08212pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8 <./task_1_b_play_attenuated.png (PNG copy)>]
+<task_1_g_easy_soln.png, id=48, 764.8575pt x 849.92531pt>
+File: task_1_g_easy_soln.png Graphic file (type png)
+<use task_1_g_easy_soln.png>
+Package pdftex.def Info: task_1_g_easy_soln.png  used on input line 280.
+(pdftex.def)             Requested size: 423.86623pt x 471.01381pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 <./task_1_c-e_schematic.png (PNG copy)>] [10 <./task_1_d_operating_point.png
+ (PNG copy)> <./task_1_e_waveform_av10.png (PNG copy)>] [11 <./task_1_f_amplify
+_the_attenuated_wav.png (PNG copy)>] [12 <./task_1_g_easy_soln.png (PNG copy)>]
+(./document.toc)
 \tf@toc=\write3
 \openout3 = `document.toc'.
 
@@ -530,29 +608,33 @@ Package pdftex.def Info: prelab2.jpg  used on input line 121.
 \tf@lof=\write4
 \openout4 = `document.lof'.
 
- [5] (./document.aux) ) 
+ [13
+
+] (./document.aux) ) 
 Here is how much of TeX's memory you used:
- 7791 strings out of 476091
- 126630 string characters out of 5794082
- 1866330 words of memory out of 5000000
- 28064 multiletter control sequences out of 15000+600000
- 518866 words of font info for 57 fonts, out of 8000000 for 9000
+ 7889 strings out of 476091
+ 129586 string characters out of 5794082
+ 1865330 words of memory out of 5000000
+ 28161 multiletter control sequences out of 15000+600000
+ 519207 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,65p,680b,316s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/latxfont/line10.pfb>
-Output written on document.pdf (5 pages, 1197865 bytes).
+ 69i,13n,65p,680b,320s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont
+/line10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on document.pdf (13 pages, 1691177 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 118 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
